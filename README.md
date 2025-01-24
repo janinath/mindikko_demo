@@ -14,7 +14,9 @@ This is a full-stack web application built with **Flask** as the backend and **R
 
 - Python 3.x
 - Node.js (for React)
-- npm (for React dependencies)
+- npm (for React dependencies) 
+
+- pip install -r requirements.txt (install packages)
 
 ### Backend Setup (Flask)
 
